@@ -1,5 +1,9 @@
 # uploadFile
 Upload file custom keyword for Katalon studio
+Below you call in script mode :
+CustomKeywords.'upload_File_Package.upload_File_Keyword.uploadFile'(findTestObject('this_object_you_can_get'), 
+    'file_path_here\\file1.jpg')
+
 
 Create New custom keyword :
 Firstly you must create new Package and then Create New Keyword
